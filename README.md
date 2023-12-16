@@ -70,16 +70,6 @@ flutter run
 
 ## Screenshots
 
-[<img src="assets/ss/1.jpeg" width="200" height="400"/>](SplashScreen)
-[<img src="assets/ss/2.jpeg" width="200" height="400"/>](OnboardingScreen)
-[<img src="assets/ss/3.jpeg" width="200" height="400"/>](SignInscreen)
-[<img src="assets/ss/4.jpeg" width="200" height="400"/>](HomescreenScreen)
-[<img src="assets/ss/5.jpeg" width="200" height="400"/>](AddItemScreen)
-[<img src="assets/ss/6.jpeg" width="200" height="400"/>](ProductPageScreen)
-[<img src="assets/ss/7.jpeg" width="200" height="400"/>](ProfileScreen)
-[<img src="assets/ss/8.jpeg" width="200" height="400"/>](Profile_owned_itemScreen)
-[<img src="assets/ss/9.jpeg" width="200" height="400"/>](TimePlaceBidScreen)
-[<img src="assets/ss/10.jpeg" width="200" height="400"/>](DashboardScreen)
 
 ## Challenges
 - Actually, Finding the winner when the auction time ends was the trickiest part because generally, we use cloud functions to automate the script online so that we don't have to do it manually. So, I have written a method to check whenever a user enters a product page it will check the current time and the auction time difference. If the difference is found it will trigger another firebase method to update the auction item status as completed and declare the highest bidder from the list as winner.
