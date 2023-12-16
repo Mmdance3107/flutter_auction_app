@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077606986142",
+    "project_id": "flutter-auction-app",
+    "storage_bucket": "flutter-auction-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077606986142:android:087a9c831fa6b15e97268f",
+        "android_client_info": {
+          "package_name": "com.example.auctionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBODaH0dTW2OkihCyhLZq7ih_yyxbkDbi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
